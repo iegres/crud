@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\Users\\Sergey\\crud",
+  "generatedFolder": "C:\\Users\\Sergey\\crud\\target\\frontend",
+  "frontendFolder": "C:\\Users\\Sergey\\crud\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
