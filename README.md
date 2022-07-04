@@ -16,6 +16,7 @@ docker exec dev-postgres psql -U username -c"CREATE DATABASE cruddb" postgres
 
 # Run the app (in the `crud` directory):
 gradlew bootRun
+```
 
 ## HTML Endpoints
 
